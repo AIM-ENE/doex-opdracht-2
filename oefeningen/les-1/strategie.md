@@ -5,7 +5,7 @@
 _Breng de gebruikers in kaart_
 
 - Bezoekers
-- Organisator
+
 
 ### Vraag 2: WAT
 
@@ -25,7 +25,13 @@ _Breng per gebruiker de use cases/requirements in kaart_
     - Overzicht reserveringen
 
 
-### Vraag 3: Hoe (domain stories maken)
+### Vraag 3: 
+
+_Breng per use case requirements mogelijke scenario's in kaart_
+
+
+
+### Vraag 4: Hoe (domain stories maken)
 
 _Selecteer use case_  
 _Bedenk scenario en werk uit als domain story_

@@ -1,3 +1,9 @@
-# Opdracht
+# Opdrachtomschrijving
 
-Hier komt de beschrijving van wat er voor de vierde les af moet zijn.
+[//]: # (TODO: verder uitwerken)
+
+Maak een domeinmodel voor de casus met
+
+Twee opties voor: Aggregates en Aggregate roots duidelijk
+
+Afweging gemaakt met behulp van Sequentie Diagrammen

@@ -5,7 +5,7 @@
 
 - **Dagprogramma:**
   Bevat alle vertoningen die een festivalbezoeker, of een groep festivalbezoekers, voor een specifieke dag heeft ingepland. Kan waarschuwingen bevatten als één, of meerdere vertoningen niet   
-- ![Film](./Icons/film.svg) **Film:**
+- ![Film](./images/film.svg) **Film:**
   Informatie over de specifieke film waaronder de titel en speelduur.
 - **Kaartje:**
   Bewijs om een specifieke vertoning te kunnen bijwonen. Een kaartje garandeert een zitplaats voor de festivalbezoeker.  

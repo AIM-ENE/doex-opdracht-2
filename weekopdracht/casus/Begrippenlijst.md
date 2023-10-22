@@ -1,5 +1,8 @@
 # Begrippenlijst
 
+[//]: # (TODO: Icoontjes toevoegen voor alle workobjects)
+
+
 - **Dagprogramma:**
   Bevat alle vertoningen die een festivalbezoeker, of een groep festivalbezoekers, voor een specifieke dag heeft ingepland. Kan waarschuwingen bevatten als één, of meerdere vertoningen niet   
 - ![Film](./Icons/film.svg) **Film:**

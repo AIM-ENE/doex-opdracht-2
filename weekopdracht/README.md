@@ -4,6 +4,9 @@
 
 Maak een domeinmodel voor de casus met
 
-Twee opties voor: Aggregates en Aggregate roots duidelijk
+Aggregates en Aggregate roots duidelijk
+-> Één uitwerking maken, of meerdere opties?? Je kan ook opties vergelijken in de les. 
 
 Afweging gemaakt met behulp van Sequentie Diagrammen
+
+Scenario's specificeren voor sequentie diagrammen

@@ -6,28 +6,37 @@ De casus van deze week is een planner voor festivals (of conferenties en andere 
 
 Het filmfestival vindt jaarlijks plaats gedurende twee weken in een stad. In alle bioscopen uit de stad worden op verschillende momenten verschillende films getoond. Festivalbezoekers kunnen kaartjes kopen voor de films die ze willen zien.
 
-Festivalbezoekers willen vaak meerdere dagen naar het festival en hebben vaak voorkeuren voor de films, of de combinatie van films die ze willen zien. Daarnaast gaan bezoekers vaak samen een, of meerder dagen naar het festival. Deze nieuwe app moet bezoekers daarom helpen bij het plannen van individuele en gezamenlijke festivalbezoeken.       
+Festivalbezoekers willen vaak meerdere dagen naar het festival en hebben vaak voorkeuren voor de films, of de combinatie van films die ze willen zien. Daarnaast gaan bezoekers vaak samen een, of meerder dagen naar het festival. 
+
+De twee belangrijkste problemen waar bezoekers bij het plannen tegenaan lopen zijn:
+
+1. Inplannen van alle vertoningen zodanig dat er geen overlap is en dat de reistijd tussen twee vertoningen haalbaar is.
+2. Met meerdere bezoekers een gezamenlijke agenda maken waarbij iedereen zoveel mogelijk van zijn of haar favoriete films kan zien.
+
+Deze nieuwe app moet bezoekers daarom helpen bij het plannen van individuele en gezamenlijke festivalbezoeken.       
 
 Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoeker één dag alleen gaat en een andere dag samen met iemand anders.  
 
 ![overzicht](./images/Filmfestivalplanner.egn.svg)
 
-1) Een aantal maanden voor de start van het festival wordt het hele festivalprogramma gepubliceerd op de website. Het programma bestaat uit alle vertoningen van alle films gedurende die uitvoering van het festival. Het programma kan op verschillende manieren bekeken worden, bijvoorbeeld als een blokkenschema. HIERONDER EEN AANTAL PLAATJES
+1) Een aantal maanden voor de start van het festival wordt het hele festivalprogramma gepubliceerd op de website. Het programma bestaat uit alle vertoningen van alle films gedurende die uitvoering van het festival.
 
-2) De festivalbezoeker bekijkt het programma en maakt een lijstje van de films die de bezoeker graag wil zien.  
+2) De festivalbezoeker bekijkt het programma en markeert films die hij of zij wil zien als `favoriet.
 
-3) De bezoeker stelt een mogelijk programma 
+3) De bezoeker stelt een agenda samen van vertoningen van films. Dit kunnen zowel favorieten zijn, als vertoningen die niet als favoriet gemarkeerd zijn. Het is meestal een flinke puzzel om alle favorieten in te plannen. 
 
-4) Twee, of meerdere bezoekers maken samen een programma voor de dag waarop ze samen naar het festival gaan
+4) Twee, of meerdere bezoekers maken samen een agenda voor de dag, of dagen waarop ze samen naar het festival gaan.
 
 5) De bezoeker koopt kaartjes voor de films uit de dagprogramma's. Één bezoeker koopt vaak de kaartjes voor alle festivalgenoten op één dag. 
 
-6) De bezoeker reist naar de locatie. 
+6) De festivalgenoten reizen naar de locatie en bekijken de films 
 
-## Probleemstelling
+## Deze lesweek
 
-De nieuwe app moet zich focussen op stap 2, 3 en 4. Meestal gaan stappen niet zo soepel als in dit scenario voorgesteld. 
+In deze lesweek richten we ons op het samenstellen van de agenda voor één bezoeker. In de volgende lesweek gaan we verder met het samenstellen van een gezamenlijke agenda.
 
-Meestal gaan stap 2, 3 en 4 niet zo soepel als in dit voorbeeld.  
+## Voorbeeldpagina's
 
-VERDER UITWERKEN
+Hoewel we niet bezig gaan met de front-end van de applicatie is het wel handig om een beeld te hebben van hoe de applicatie eruit zou kunnen zien. In de MAP XYZ je een aantal voorbeelden van hoe verschillende pagina's eruit zouden kunnen zien.
+
+[//]: # (TODO: links naar voorbeelden toevoegen)

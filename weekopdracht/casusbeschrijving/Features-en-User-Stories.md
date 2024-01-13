@@ -2,22 +2,23 @@
 
 ## Release Feature 1
 
-Als een festivalbezoeker
-Wil ik een online overzicht kunnen maken met alle vertoningen op alle dagen van mijn festivalbezoek
-Zodat ik zo snel mogelijk een selectie van vertoningen heb die optimaal aansluit bij mijn behoefte
+Als een festivalbezoeker  
+Wil ik een online agenda kunnen bijhouden
+Zodat ik zo efficient mogelijk een haalbare selectie van vertoningen heb die optimaal aansluit bij mijn behoefte
 
 ### User Stories
 
-Als festivalbezoeker
-Wil ik films kunnen aanmerken als favoriet
-Zodat ik een overzicht houd van films die ik graag wil zien
+Als festivalbezoeker  
+Wil ik films kunnen aanmerken als favoriet  
+Zodat ik een overzicht houd van films die ik graag wil zien  
 
-Als festivalbezoeker
-Wil ik per dag een agenda kunnen maken met vertoningen
+Als Festivalbezoeker  
+Wil ik per dag een agenda van vertoningen bijhouden   
+Zodat ik zie of de selectie haalbaar is op die dag  
 
-Als festivalbezoeker
-Wil ik van mijn favorieten vertoningen zien al zijn ingepland en welke niet
-
+ALs festivalbezoeker  
+Wil ik zien welke favoriete films al zijn ingepland en welke niet  
+Zodat ik weet in hoeverre mijn agenda al aansluit bij mijn wensen
 
 
 

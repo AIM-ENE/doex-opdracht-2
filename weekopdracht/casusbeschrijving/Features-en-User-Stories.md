@@ -6,7 +6,6 @@ Als een festivalbezoeker
 Wil ik voor alle dagen waarop ik het festival bezoek een online agenda kunnen bijhouden  
 Zodat ik zo efficient mogelijk een haalbare selectie van vertoningen heb die optimaal aansluit bij mijn behoefte
 
-
 ### User Stories 
 
 Als festivalbezoeker  

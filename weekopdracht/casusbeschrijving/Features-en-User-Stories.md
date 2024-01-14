@@ -16,8 +16,8 @@ Als Festivalbezoeker
 Wil ik per dag een agenda van vertoningen bijhouden   
 Zodat ik zie of de selectie haalbaar is op die dag
 
-ALs festivalbezoeker  
-Wil ik zien welke favoriete films al zijn ingepland en welke niet  
+Als festivalbezoeker  
+Wil ik weten hoe vaak ik een bepaalde film al heb ingepland  
 Zodat ik weet in hoeverre mijn agenda al aansluit bij mijn wensen
 
 ### Business rules
@@ -29,8 +29,7 @@ Er ontstaat een planningsconflict als er een vertoning wordt ingepland die in we
 - De festivalbezoeker niet aan de voorwaarden van de vertoning voldoet
 - Een vertoning al uitverkocht is
 
-Het festival is ingedeeld in afzonderlijke dagen en twee vertoningen op verschillende dagen kunnen elkaar niet overlappen.
-
+Het festival is ingedeeld in afzonderlijke dagen. De laatste vertoning start om middernacht en de eerste vertoning start niet eerder dan 9:00 's ochtends. Twee vertoningen op verschillende dagen kunnen elkaar dus nooit overlappen.
 
 
 ## Release feature 2 (volgende week)

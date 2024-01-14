@@ -27,7 +27,7 @@ Er ontstaat een planningsconflict als er een vertoning wordt ingepland die in we
 - Er niet genoeg tijd is om van de ene vertoning naar de andere te gaan
 - Twee vertoningen elkaar geheel, of gedeeltelijk overlappen
 - De festivalbezoeker niet aan de voorwaarden van de vertoning voldoet
-- Een vertoning al uitverkocht is
+  - Voor nu is de enige voorwaarde dat sommige vertoningen alleen toegankelijk voor professionals (bijvoorbeeld journalisten) zijn.  
 
 Het festival is ingedeeld in afzonderlijke dagen. De laatste vertoning start om middernacht en de eerste vertoning start niet eerder dan 9:00 's ochtends. Twee vertoningen op verschillende dagen kunnen elkaar dus nooit overlappen.
 

@@ -4,12 +4,7 @@ Feature: Haalbare agenda bijhouden
   Wil ik voor alle dagen waarop ik het festival bezoek een online agenda kunnen bijhouden
   Zodat ik zo efficient mogelijk een haalbare selectie van vertoningen heb die optimaal aansluit bij mijn behoefte
 
-  Scenario: Vertoning toevoegen die geen planningsconflict oplevert
-    Given
-    When
-    Then
-
-  Scenario: Vertoning toevoegen die is uitverkocht
+  Scenario: Vertoning toevoegen op dezelfde dag zonder dat deze een planningsconflict oplevert
     Given
     When
     Then
@@ -19,7 +14,7 @@ Feature: Haalbare agenda bijhouden
     When
     Then
 
-  Scenario: Vertoning toevoegen waarvan de bezoeker niet aan de minimumleeftijd voldoet
+  Scenario: Vertoning voor professionals toevoegen terwijl de bezoeker geen professional is
     Given
     When
     Then

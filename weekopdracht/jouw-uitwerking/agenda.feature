@@ -19,12 +19,7 @@ Feature: Haalbare agenda bijhouden
     When
     Then
 
-  Scenario: Vertoning toevoegen waarvan de reistijd te kort is ten opzichte van een andere vertoning die al is ingepland
-    Given
-    When
-    Then
-
-  Scenario: Vertoning met planningsconflict verwijderen
+  Scenario: Vertoning die overlapt met een andere vertoning verwijderen uit de agenda van een dag
     Given
     When
     Then

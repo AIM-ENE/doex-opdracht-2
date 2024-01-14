@@ -1,12 +1,8 @@
 # Opdrachtomschrijving
 
-[//]: # (TODO: verder uitwerken)
+Hieronder zie je alle de feature met alle scenario's. 
 
-Maak een domeinmodel voor de casus met
+Werk de stappen uit die je in elke folder kunt vinden
 
-Aggregates en Aggregate roots duidelijk
--> Één uitwerking maken, of meerdere opties?? Je kan ook opties vergelijken in de les. 
+[//]: # (TODO: mooie example map maken voor features en scenario's)
 
-Afweging gemaakt met behulp van Sequentie Diagrammen
-
-Scenario's specificeren voor sequentie diagrammen

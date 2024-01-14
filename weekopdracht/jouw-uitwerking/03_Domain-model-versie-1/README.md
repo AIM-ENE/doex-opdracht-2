@@ -1,0 +1,1 @@
+Gebruik stap 1 en 2 om een eerste versie van het domeinmodel te maken.  

@@ -2,13 +2,6 @@
 
 ## Scenario A Happy Path
 
-
-```gherkin
-Given
-When
-Then
-```
-
 - **Preconditie(s)**:  
 
 
@@ -17,11 +10,6 @@ Then
 
 ## Scenario B Overlapt
 
-```gherkin
-Given
-When
-Then
-```
 
 - **Preconditie(s)**:
 
@@ -32,11 +20,6 @@ Then
 
 ## Scenario C Uitverkocht
 
-```gherkin
-Given
-When
-Then
-```
 
 - **Preconditie(s)**:
 

@@ -1,0 +1,24 @@
+@startuml
+
+hide circle
+skinparam linetype ortho
+
+class Spel <<entity>> {
+    veplaatsKosten
+    verplaats(Karakter karakter, Vakje doelVakje)
+}
+
+class Vakje <<entity>> {
+    isLeeg():boolean
+}
+class Karakter <<entity>> {
+    verplaats(Vakje doelVakje, verplaatsKosten)
+    genoegEnergie(Integer afstand): boolean
+    verminderEnergie(verplaatsKosten)
+}
+
+Spel "1" -> " * karakters" Karakter
+Spel "1" --> "vakjes *" Vakje
+Vakje "huidigVakje 1" -- "karakter 0..1 " Karakter
+
+@enduml

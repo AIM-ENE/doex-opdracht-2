@@ -1,0 +1,13 @@
+@startuml
+
+autonumber
+
+actor Student
+participant "app:\n InschrijfApp" as app
+participant "course:\nCourse" as course
+participant "student:\nStudent" as student
+database Store
+
+
+
+@enduml

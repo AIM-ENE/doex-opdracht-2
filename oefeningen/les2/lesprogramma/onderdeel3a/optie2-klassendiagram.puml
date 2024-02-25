@@ -1,3 +1,17 @@
 @startuml
 
+hide circle
+
+Title Optie B
+
+class Course <<Entity>> {
+    aantalInschrijvingen
+}
+
+class Student <<Entity>> {
+    schrijfIn(course: Course)
+}
+
+Student "1 " --> "inschrijvingen *" Course
+
 @enduml

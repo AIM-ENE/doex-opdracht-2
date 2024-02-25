@@ -8,6 +8,8 @@ participant "student:\nStudent" as student
 participant "course:\nCourse" as course
 database Store
 
-
+Student -> app: schrijfIn(: \n\
+    studentID,\n\
+    courseID)
 
 @enduml

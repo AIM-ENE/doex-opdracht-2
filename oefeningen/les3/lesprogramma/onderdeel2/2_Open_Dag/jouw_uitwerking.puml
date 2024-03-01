@@ -1,0 +1,14 @@
+@startuml
+hide circle
+class Workshop {
+    titel
+    duur
+}
+
+class Bezoeker {
+    naam
+}
+
+class Aanmelding
+
+@enduml

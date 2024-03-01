@@ -1,0 +1,29 @@
+@startuml
+
+title Vertoning genereert kaartje
+
+autonumber
+
+actor Bezoeker
+participant "app:\nCinemaApp" as app
+participant "vertoning:\nVertoning" as vertoning
+participant "stoel:\nStoel" as stoel
+participant "kaartje:\nKaartje" as kaartje
+
+Bezoeker -> app : selecteerStoel( \n\
+    stoelId)
+
+app -> vertoning: reserveerStoel(stoelId)
+vertoning -> vertoning: stoel = findStoel(stoelId)
+
+vertoning -> stoel : reserveer()
+stoel -> stoel: setIsBeschikbaar(false)
+
+app -> vertoning : genereerKaartje(stoelId)
+create kaartje
+vertoning -> kaartje : kaartje =  new Kaartje(\n\
+    stoelId, titel, datum, tijd)
+app <-- vertoning: kaartje
+Bezoeker <-- app : kaartje
+
+@enduml

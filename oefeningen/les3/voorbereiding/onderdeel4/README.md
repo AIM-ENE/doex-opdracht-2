@@ -8,6 +8,14 @@ Deze opgave gaat over het reserveren van een beschikbare stoel voor een specifie
 
 Houd er echter rekening mee dat dezelfde fysieke stoel gebruikt kan worden in verschillende vertoningen die niet op hetzelfde moment plaatsvinden.
 
+De invariant die bewaakt moet worden is:
+
+```plaintext
+
+Binnen één vertoning kan een stoel maximaal één reservering hebben.
+
+```
+
 Je mag klassen en methodes toevoegen en verplaatsen en verwijderen.
 
 :point_right: Als je veranderingen aanbrengt in het klassendiagram, pas dan ook `jouw_uitwerking/sequentie-diagram.puml` aan zodat klassendiagram en sequentiediagram met elkaar overeen komen.

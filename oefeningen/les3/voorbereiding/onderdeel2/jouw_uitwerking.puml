@@ -1,0 +1,22 @@
+@startuml
+hide circle
+
+skinparam linetype ortho
+
+class Shipment {
+}
+
+class Stop {
+}
+
+class State <<enum>> {
+  InTransit
+  Arrived
+  Departed
+}
+
+Shipment "1" -r- "pickup 1" Stop
+Shipment "1" -r- "delivery 1" Stop
+Stop "1" -r-> "1" State
+
+@enduml

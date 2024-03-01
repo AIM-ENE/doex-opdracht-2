@@ -1,0 +1,16 @@
+@startuml
+hide circle
+
+class Uitlening {
+    startdatum
+    einddatum
+}
+class Boek {
+    titel
+}
+
+class Lid {
+    naam
+}
+
+@enduml

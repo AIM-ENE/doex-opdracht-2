@@ -1,4 +1,4 @@
-# Bibliotheekuitleensysteem
+# Bibliotheek v1
 
 **Context:** Een systeem voor het beheren van uitleningen van boeken in een bibiotheek.
 - **Klassen:** `Boek`, `Uitlening`, `Lid`

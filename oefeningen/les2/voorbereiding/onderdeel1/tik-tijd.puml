@@ -1,0 +1,23 @@
+@startuml
+
+autonumber
+
+participant "klok:\nKlokDisplay" as klok
+participant "minuten:\nNummerDisplay" as minuten
+participant "uren:\nNummerDisplay" as uren
+
+ [-> klok:  tikTijd()
+
+klok -> minuten: increment()
+
+klok -> minuten: waarde = getWaarde()
+
+opt waarde == 0
+    klok -> uren: increment()
+end
+
+klok -> klok: updateDisplay()
+klok -> minuten: getDisplayWaarde()
+klok -> uren: getDisplayWaarde()
+
+@enduml

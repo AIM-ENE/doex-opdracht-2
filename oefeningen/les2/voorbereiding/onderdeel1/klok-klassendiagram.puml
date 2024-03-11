@@ -1,0 +1,22 @@
+@startuml
+
+hide circle
+
+class KlokDisplay {
+    display: String
+    tikTijd(): void
+    updateDisplay(): void
+}
+
+class NummerDisplay {
+    limiet: int
+    nummer: int
+    increment(): void
+    getWaarde(): int
+    getDisplayWaarde(): String
+}
+
+KlokDisplay "1" --> "1 uren" NummerDisplay
+KlokDisplay "1" --> "1 minuten" NummerDisplay
+
+@enduml

@@ -2,6 +2,8 @@
 
 actor Speler
 
+autonumber
+
 participant app as "app:\nAdventureQuestApp"
 participant spel as "spel:\nSpel"
 participant karakter as "karakter:\nKarakter"

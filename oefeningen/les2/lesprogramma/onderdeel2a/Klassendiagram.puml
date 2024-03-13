@@ -17,7 +17,7 @@ class Karakter <<entity>> {
     verminderEnergie(verplaatsKosten)
 }
 
-Spel "1" -> " * karakters" Karakter
+Spel "1" -> " karakters *" Karakter
 Spel "1" --> "vakjes *" Vakje
 Vakje "huidigVakje 1" -- "karakter 0..1 " Karakter
 

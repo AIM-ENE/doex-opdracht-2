@@ -9,25 +9,15 @@ participant doelVakje as "Vakje"
 participant huidigVakje as "Vakje"
 database Store
 
-note over doelVakje
-Hallo dit is een note
-end note
-
 Speler --> app: verplaats(\n\
     spelId,\n\
     karakterId)
 
-app -> Store: spel = find spel(spelId)
+app -> Store: spel = findSpel(spelId)
 
 spel -> Store: karakter = findKarakter(karakterId)
 
 spel -> karakter: huidigVakje = getHuidigVakje()
-
-note over spel
-parameter mogen niet
-uit de lucht komen vallen:
-doelVakjeId
-end note
 
 spel -> spel: doelVakje = findVakje(doelVakjeId)
 

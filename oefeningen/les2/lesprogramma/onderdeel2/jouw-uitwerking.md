@@ -43,7 +43,7 @@ Een returnwaarde kan op twee manier worden getekend:
 
 ## Objecten toevoegen
 
-- [ ] Als een object een collectie bijhoudt van een andere object dan kan een instantie daaraan worden toegvoegd met met een aanroep van de methode `add(het nieuwe object)`.
+- [ ] Als een object een collectie bijhoudt van een ander object dan kan een instantie daaraan worden toegevoegd met een aanroep van de methode `add(het nieuwe object)`.
 - [ ] Meestal zie je de naam van het type dat je zoekt achter `add` staan. Dit is niet verplicht, maar wel handig voor de lezer.
 
 ## Lagen

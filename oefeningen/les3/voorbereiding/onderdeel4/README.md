@@ -1,3 +1,5 @@
+# DEZE OPDRACHT GAAT ERUIT. KOMT TERUG IN WEEK 3 IN ANDERE VORM
+
 # Oefening Aggregate maken
 
 Deze opgave gaat over het reserveren van een beschikbare stoel voor een specifieke vertoning van een film (zoals we dit in les 1 hebben behandeld). Zie de afbeelding hieronder voor de domain story. 

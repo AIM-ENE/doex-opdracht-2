@@ -28,7 +28,9 @@ Op basis van bovenstaande antwoorden
 
 Wat is de aggregate? Keuze maken
 
-Waar zit de methode voegProductToe
+Waar zit`(ten) de methodes:
+- `voegProductToe`
+- `veranderAantal`
 
 
 ### Opdracht C

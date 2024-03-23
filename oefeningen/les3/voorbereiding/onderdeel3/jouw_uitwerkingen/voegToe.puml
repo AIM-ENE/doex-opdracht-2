@@ -1,0 +1,23 @@
+@startuml
+
+actor "Klant" as klant
+participant "app:\nBestelApp" as app
+participant "bestelling:\nBestelling" as bestelling
+participant "bestelregel:\nBestelRegel" as bestelregel
+participant "product:\nProduct" as product
+database Store
+
+klant -> app: voegToe(\n\
+    productId, \n\
+    bestellingId, \n\
+    aantal)
+app -> Store: product = findProduct(productId)
+app -> Store: bestelling = findBestelling(bestellingId)
+app -> bestelling: voegToe(product, aantal)
+bestelling -> bestelregel **: bestelregel = new(product, aantal)
+bestelling -> bestelregel: getSubtotaal()
+bestelregel -> product: prijs = getPrijs()
+bestelling <-- bestelregel: subtotaal
+
+bestelling -> bestelling: addBestelRegel(bestelregel)
+@enduml

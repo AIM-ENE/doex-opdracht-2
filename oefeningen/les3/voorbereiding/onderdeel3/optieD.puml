@@ -1,0 +1,32 @@
+@startuml
+hide circle
+skinparam linetype ortho
+
+title Optie D Alle klassen zijn afzonderlijk een aggregate
+
+rectangle "Aggregate A"{
+
+    class Bestelling <<Entity>> {
+        bestellingId
+        budget
+        berekenTotaal()
+    }
+}
+
+rectangle "Aggregate B" {
+    class BestelRegel <<Entity>> {
+        aantal
+    }
+}
+
+rectangle "Aggregate C" {
+    class Product <<Entity>> {
+        productId
+        prijs
+    }
+}
+
+Bestelling "1" -r- "*" BestelRegel
+BestelRegel "*" -r- "1" Product
+
+@enduml

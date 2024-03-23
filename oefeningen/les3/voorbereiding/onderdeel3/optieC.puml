@@ -1,0 +1,30 @@
+@startuml
+hide circle
+skinparam linetype ortho
+
+title Optie C Product en Bestelregel vormen samen een aggregate
+
+rectangle "Aggregate A"{
+
+    class Bestelling <<Entity>> {
+        bestellingId
+        budget
+        berekenTotaal()
+    }
+}
+
+rectangle "Aggregate B" {
+    class BestelRegel <<Entity>> {
+        aantal
+    }
+
+    class Product <<Entity>> {
+        productId
+        prijs
+    }
+}
+
+Bestelling "1" -r- "*" BestelRegel
+BestelRegel "*" -r- "1" Product
+
+@enduml

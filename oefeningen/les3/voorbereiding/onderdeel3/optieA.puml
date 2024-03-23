@@ -1,0 +1,28 @@
+@startuml
+hide circle
+
+title Optie A: Alle klassen vormen samen één aggregate
+
+rectangle Aggregate {
+
+class Bestelling <<Entity>> {
+    bestellingId
+    budget
+    berekenTotaal()
+}
+
+class BestelRegel <<Entity>> {
+    aantal
+}
+
+class Product <<Entity>> {
+    productId
+    prijs
+}
+
+Bestelling "1" -r- "*" BestelRegel
+BestelRegel "*" -r- "1" Product
+
+}
+
+@enduml

@@ -24,11 +24,11 @@ Als een `product` verwijderd wordt, wmoeten er dan ook andere objecten verwijder
 
 ## Ophalen uit de store
 
-Als je een bestelling uit de store haalt, zijn er dan bijbehorende objecten die je ook uit de store wilt halen (zo ja, welke)?
+Als je een `bestelling` uit de Store haalt, zijn er dan bijbehorende objecten die je ook uit de store wilt halen (zo ja, welke)?
 
 >
 
-Als je een product uit de Store haalt, zijn er dan bijbehorende objecten die je ook uit de store wilt halen (zo ja, welke)?
+Als je een `product` uit de Store haalt, zijn er dan bijbehorende objecten die je ook uit de store wilt halen (zo ja, welke)?
 
 > 
 

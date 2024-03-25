@@ -4,9 +4,7 @@
 
 Een systeem waarmee medewerkers van een bedrijf producten kunnen bestellen. De totale prijs van een bestellingen mag echter niet hoger zijn dan een bepaald budget voor die bestelling.
 
-Hieronder zie je het klassendiagram
-
-In het klassendiagram `klassendiagram.puml`
+Zie het klassendiagram `klassendiagram.puml`.
 
 Om te voorkomen dat een de totaalPrijs van bestellingen die gedaan zijn, veranderen wanneer de prijs van een Product verandert, slaan we de prijs van een Product op in de BestelRegel op het moment dat deze wordt toegevoegd. 
 

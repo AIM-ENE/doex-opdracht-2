@@ -2,18 +2,20 @@
 hide circle
 
 class Bestelling <<Entity>> {
-    bestellingId
+    id
     budget
+    totaalPrijs
     berekenTotaalPrijs()
 }
 
 class BestelRegel <<Entity>> {
+    id
     productAantal
     productPrijs
 }
 
 class Product <<Entity>> {
-    productId
+    id
     prijs
 }
 

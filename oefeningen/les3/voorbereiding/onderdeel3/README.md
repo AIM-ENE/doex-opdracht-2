@@ -2,37 +2,26 @@
 
 ## Casus Budget
 
-Zie `klassendiagram.puml`
+Een systeem waarmee medewerkers van een bedrijf producten kunnen bestellen. De totale prijs van een bestellingen mag echter niet hoger zijn dan een bepaald budget voor die bestelling.
+
+Hieronder zie je het klassendiagram
+
+In het klassendiagram `klassendiagram.puml`
+
+Om te voorkomen dat een de totaalPrijs van bestellingen die gedaan zijn, veranderen wanneer de prijs van een Product verandert, slaan we de prijs van een Product op in de BestelRegel op het moment dat deze wordt toegevoegd. 
+
 
 Invariant: totaalPrijs mag niet over het budget
 
-Als de prijs van een product wordt aangepast, dan hoeven bestaande bestelregels niet aangepast te worden.
+### Opdracht 3A
 
-### Opdracht A
+Beantwoord de vragen in `3A/jouw_uitwerking.md`
 
-Beantwoord de volgende vragen:
+### Opdracht 3B
 
-- Invariant:
-  - Welke klassen bewaken samen de invariant
-- Life-cycle 
-  - als een `bestelling` vewijderd wordt, welke objecten moeten dan ook verwijderd worden
-  - als een `bestelregel` verwijderd wordt, welke objecten moeten dan ook verwijderd worden
-  - als een `product` verwijderd wordt, welke objecten moeten dan ook verwijderd worden
-- Ophalen uit de store
-    - Als je een bestelling uit de store haalt, zijn er dan bijbehorende objecten die je ook uit de store wil halen.
-  - ETC.
+Beantwoord de vragen in `3B/jouw_uitwerking.md`
 
-### Opdracht B
+### Opdracht 3C
 
-Op basis van bovenstaande antwoorden
-
-Wat is de aggregate? Keuze maken
-
-Waar zit`(ten) de methodes:
-- `voegProductToe`
-- `veranderAantal`
-
-
-### Opdracht C
-
-Maak het sequentiediagram af voor `pasAan`
+Maak het sequentiediagram voor de methode `veranderAantal` in `3C/jouw_uitwerking.md`.
+Je hoeft de werking van de methode `berekenTotaalPrijs` niet uit te schrijven.

@@ -1,6 +1,6 @@
 # Oefening met het maken van een Aggregate
 
-## Casus Bestelling Bestelregel Product
+## Casus Budget
 
 Zie `klassendiagram.puml`
 
@@ -35,4 +35,4 @@ Waar zit`(ten) de methodes:
 
 ### Opdracht C
 
-Maak het sequentiediagram af voor voegProductToe
+Maak het sequentiediagram af voor `pasAan`

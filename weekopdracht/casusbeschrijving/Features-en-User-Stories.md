@@ -17,6 +17,7 @@ Er ontstaat een planningsconflict als er een vertoning wordt ingepland die in we
 - De festivalbezoeker niet aan de voorwaarden van de vertoning voldoet
   - Voor nu is de enige voorwaarde dat sommige vertoningen alleen toegankelijk voor professionals (bijvoorbeeld journalisten) zijn.  
 
+
 Een vertoning die een planningsconflict oplevert, wordt wel toegevoegd aan de agenda inclusief conflictinformatie, maar wordt pas geteld bij het aantal ingeplande vertoningen van die film als het conflict is opgelost.
 
 Het festival is ingedeeld in afzonderlijke dagen. De laatste vertoning start om middernacht en de eerste vertoning start niet eerder dan 9:00 's ochtends. Twee vertoningen op verschillende dagen kunnen elkaar dus nooit overlappen.

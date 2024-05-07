@@ -1,6 +1,6 @@
 # Acceptatiecriteria
 
-## Scenario A Happy Path
+## Scenario Happy Path
 
 - **Preconditie(s)**:  
 
@@ -8,7 +8,7 @@
 - **Postconditie(s)**:
 
 
-## Scenario B Overlapt
+## Scenario Uitzondering Overlap
 
 
 - **Preconditie(s)**:
@@ -17,13 +17,5 @@
 - **Postconditie(s)**:
 
 
-
-## Scenario C Uitverkocht
-
-
-- **Preconditie(s)**:
-
-
-- **Postconditie(s)**:
 
 

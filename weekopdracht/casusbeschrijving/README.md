@@ -15,7 +15,7 @@ De twee belangrijkste problemen waar bezoekers bij het plannen tegenaan lopen zi
 
 Deze nieuwe app moet bezoekers daarom helpen bij het plannen van individuele en gezamenlijke festivalbezoeken.       
 
-Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoeker één dag alleen gaat en een andere dag samen met iemand anders.  
+Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoeker een complete agenda maakt, kaartjes koopt en het festival bezoekt.
 
 ![overzicht](./images/Filmfestivalplanner.egn.svg)
 
@@ -25,11 +25,10 @@ Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoe
 
 3) De bezoeker stelt een agenda samen van vertoningen van films. Dit kunnen zowel favorieten zijn, als vertoningen die niet als favoriet gemarkeerd zijn. Het is meestal een flinke puzzel om alle favorieten in te plannen. 
 
-4) Twee, of meerdere bezoekers maken samen een agenda voor de dag, of dagen waarop ze samen naar het festival gaan.
+4) De bezoeker koopt kaartjes voor de films uit de dagprogramma's. 
+5) De bezoeker reist naar de locatie.
 
-5) De bezoeker koopt kaartjes voor de films uit de dagprogramma's. Één bezoeker koopt vaak de kaartjes voor alle festivalgenoten op één dag. 
-
-6) De festivalgenoten reizen naar de locatie en bekijken de films 
+6) De bezoeker bekijkt de vertoning. 
 
 ## Deze lesweek
 

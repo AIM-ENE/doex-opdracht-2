@@ -8,7 +8,7 @@
 - **Dagagenda:**
   Bevat alle vertoningen die een festivalbezoeker, of een groep festivalbezoekers, voor een specifieke dag heeft ingepland.   
 - **Agenda:**  
-  Het complete overzicht van alle ????
+  Het complete overzicht van alle dagplanningen van een festivalbezoeker.
 - **Planningsconflict:**  
   Indicatie dat een geplande vertoning in een dagagenda waarschijnlijk niet daadwerkelijk bezocht kan worden vanwege andere vertoningen en/of omdat de bezoeker niet aan alle voorwaarden van de vertoning voldoet. 
 - ![Film](./images/film.svg) **Film:**

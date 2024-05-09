@@ -31,6 +31,7 @@ Een vertoning die een planningsconflict oplevert, wordt wel toegevoegd aan de ag
 
 Het festival is ingedeeld in afzonderlijke dagen. De laatste vertoning start om middernacht en de eerste vertoning start niet eerder dan 9:00 's ochtends. Twee vertoningen op verschillende dagen kunnen elkaar dus nooit overlappen.
 
+Omdat een festivalbezoeker beschermd moet worden tegen het kopen van kaartjes voor een onhaalbare agenda, moet een planningsconflict direct gemaakt worden zodra een vertoning wordt toegevoegd aan de agenda. Vertoningen die onderdeel zijn van een planningsconflict tellen niet als ingepland.
 
 ## Release feature 2 (volgende week)
 

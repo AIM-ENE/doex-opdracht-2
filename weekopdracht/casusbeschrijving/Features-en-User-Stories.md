@@ -6,9 +6,18 @@ Als een festivalbezoeker
 Wil ik voor elke dag waarop ik het festival bezoek een online agenda kunnen bijhouden  
 Zodat ik zo efficient mogelijk een haalbare selectie van vertoningen heb die optimaal aansluit bij mijn behoefte
 
+Als een festivalbezoeker  
+Wil ik films kunnen markeren als favoriet  
+Zodat ik een overzicht kan maken van de films waarin ik geïnteresseerd ben
+
+Als een festivalbezoeker  
+Wil ik van de films die ik als favoriet heb gemarkeerd, kunnen zien hoe vaak deze zijn ingepland  
+Zodat ik een beeld krijg in hoeverre mijn agenda overeen komt met mijn filmvoorkeuren
+
+
 ### Business rules
 
-Van een film moet bijgehouden worden hoe vaak deze is ingepland.
+Van een film die gemarkeerd is al favoriet, moet bijgehouden worden hoe vaak deze is ingepland.
 
 Er ontstaat een planningsconflict als er een vertoning wordt ingepland die in werkelijkheid niet bezocht kan worden. Hierdoor wordt de agenda onhaalbaar. Een planningsconflict ontstaat als:
 

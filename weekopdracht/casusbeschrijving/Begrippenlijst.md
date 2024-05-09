@@ -19,7 +19,7 @@
   De plek waar een vertoning wordt gehouden. Bevat de naam van het gebouw, het adres en de zaal.
 - **Vertoning:**
   Het moment waarop een specifieke film gedraaid wordt. Een vertoning is altijd gekoppeld aan één film en bevat de locatie, datum en starttijd.    
-- **Wensenlijst:**
-  Alle films die een festivalbezoeker wil zien. De wensenlijst houdt bij van welke films al vertoningen zijn ingepland in één of meerdere dagprogramma's. Een wensenlijst hoort altijd bij één festivalbezoeker
+- **Favoriet:**
+  Een film die een festivalbezoeker gemarkeerd heeft en graag wil zien.
 - **Zaal:**
   De ruimte in een locatie waar een vertoning plaats vindt. Bevat de identificatie (naam, of nummer) en het aantal zitplaatsen.

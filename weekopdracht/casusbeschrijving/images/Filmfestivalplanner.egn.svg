@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- created with bpmn-js / http://bpmn.io -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="769" height=" 547" viewBox="340 506 769 577" version="1.1"><defs><marker id="activity-black-black-b0jybh1mkb452ayihgi9ktiu8" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000px, 1px; stroke: black;"/></marker></defs><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_9812" transform="matrix(1, 0, 0, 1, 515, 880)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="423" height="167" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="8" y="18.799999999999997"/></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="423" height="167"/><rect x="-6" y="-6" width="435" height="179" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_6875" transform="matrix(1, 0, 0, 1, 967, 965)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="136" height="43" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,43 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" lineHeight="1.2" class="djs-label"><tspan x="5" y="15.799999999999999">Herhaal voor alle </tspan><tspan x="5" y="30.199999999999996">geplande vertoningen</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="136" height="43"/><rect x="-6" y="-6" width="148" height="55" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1170" transform="matrix(1, 0, 0, 1, 346, 975)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="154" height="68" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,68 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" lineHeight="1.2" class="djs-label"><tspan x="5" y="15.799999999999999">De meeste films zijn niet </tspan><tspan x="5" y="30.199999999999996">op dezelfde locatie en de </tspan><tspan x="5" y="44.599999999999994">reistijd kan oplopen tot </tspan><tspan x="5" y="58.99999999999999">30 minuten.</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="154" height="68"/><rect x="-6" y="-6" width="166" height="80" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_6664" transform="matrix(1, 0, 0, 1, 707, 952)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="11.012500762939453" y="74.75">Vertoning</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1376" transform="matrix(1, 0, 0, 1, 537, 952)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M6.5 10h-2v7h2v-7zm6 0h-2v7h2v-7zm8.5 9H2v2h19v-2zm-2.5-9h-2v7h2v-7zm-7-6.74L16.71 6H6.29l5.21-2.74m0-2.26L2 6v2h19V6l-9.5-5z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="17.274999618530273" y="74.75">Locatie</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_5208" transform="matrix(1, 0, 0, 1, 448, 792)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="10.23750114440918" y="74.75">Kaartje(s)</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7834" transform="matrix(1, 0, 0, 1, 707, 512)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="14.825000762939453" y="74.75">Favoriet</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_2247" transform="matrix(1, 0, 0, 1, 707, 632)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="15.162500381469727" y="74.75">Films(s)</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_3370" transform="matrix(1, 0, 0, 1, 597, 523)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path d="M3 5v14h17V5H3zm4 2v2H5V7h2zm-2 6v-2h2v2H5zm0 2h2v2H5v-2zm13 2H9v-2h9v2zm0-4H9v-2h9v2zm0-4H9V7h9v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="5.025001525878906" y="74.75">Programma</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_0317" transform="matrix(1, 0, 0, 1, 448, 523)" style="display: block;"><g class="djs-visual"><svg fill=" black" viewBox="0 0 24 26" xmlns="http://www.w3.org/2000/svg" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="14.037500381469727" y="75">Festival </tspan><tspan x="15.062501907348633" y="89">Website</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7125" transform="matrix(1, 0, 0, 1, 707, 792)" style="display: block;"><g class="djs-visual"><svg fill=" black" viewBox="0 0 24 26" xmlns="http://www.w3.org/2000/svg" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="0" y="75">Festivalbezoe</tspan><tspan x="28.787500381469727" y="89">ker</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_0049" style="display: block;"><g class="djs-visual"><polyline points="920,980 967,980 " style="stroke: rgb(0, 0, 0); stroke-width: 1.5px; stroke-linejoin: round; stroke-dasharray: 5px, 5px;"/></g><polyline points="920,980 967,980 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="914" y="974" width="59" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_4143" style="display: block;"><g class="djs-visual"><polyline points="537,990 500,999 " style="stroke: rgb(0, 0, 0); stroke-width: 1.5px; stroke-linejoin: round; stroke-dasharray: 5px, 5px;"/></g><polyline points="537,990 500,999 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="494" y="984" width="49" height="21" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_0199" style="display: block;"><g class="djs-visual"><polyline points="529,561 597,561 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="552" y="546">1</tspan></text><circle cx="556" cy="542" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="529,561 597,561 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="523" y="555" width="80" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_5700" style="display: block;"><g class="djs-visual"><polyline points="745,792 745,717 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="759" y="754.5">Markeert</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="714" y="754.5">2</tspan></text><circle cx="718" cy="750.5" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="745,792 745,717 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="739" y="711" width="12" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6787" style="display: block;"><g class="djs-visual"><polyline points="745,632 745,597 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="759" y="614.5">Als</tspan></text></g><polyline points="745,632 745,597 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="739" y="591" width="12" height="47" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1702" style="display: block;"><g class="djs-visual"><polyline points="788,830 933,830 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="826.45" y="845">stelt samen</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="849.5" y="815">3</tspan></text><circle cx="853.5" cy="811" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="788,830 933,830 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="782" y="824" width="157" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3336" style="display: block;"><g class="djs-visual"><polyline points="707,830 529,830 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="599.25" y="845">Koopt</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="612.6122448979592" y="814.6938775510204">4</tspan></text><circle cx="616.6122448979592" cy="810.6938775510204" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="707,830 529,830 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="523" y="824" width="190" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3124" style="display: block;"><g class="djs-visual"><polyline points="486,792 486,608 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="500" y="700">via</tspan></text></g><polyline points="486,792 486,608 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="480" y="602" width="12" height="196" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1690" style="display: block;"><g class="djs-visual"><polyline points="707,850 575,920 575,952 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="656.5520634903633" y="890.6876190578205">Reist naar</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="607.470430837302" y="890.6876190578205">5</tspan></text><circle cx="611.470430837302" cy="886.6876190578205" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="707,850 575,920 575,952 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="569" y="844" width="144" height="114" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3288" style="display: block;"><g class="djs-visual"><polyline points="745,896 745,952 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-b0jybh1mkb452ayihgi9ktiu8');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="759" y="924">Bekijkt</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="709.9183673469388" y="924">6</tspan></text><circle cx="713.9183673469388" cy="920" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="745,896 745,952 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="739" y="890" width="12" height="68" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1945" transform="matrix(1, 0, 0, 1, 933, 792)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path d="M3 5v14h17V5H3zm4 2v2H5V7h2zm-2 6v-2h2v2H5zm0 2h2v2H5v-2zm13 2H9v-2h9v2zm0-4H9v-2h9v2zm0-4H9V7h9v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="16.087500382214785" y="74.75">Agenda</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="751" height=" 547" viewBox="44 165 751 577" version="1.1"><defs><marker id="activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000px, 1px; stroke: black;"/></marker></defs><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_9812" transform="matrix(1, 0, 0, 1, 219, 539)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="423" height="167" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="8" y="18.799999999999997"/></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="423" height="167"/><rect x="-6" y="-6" width="435" height="179" style="fill: none;" class="djs-outline"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7125" transform="matrix(1, 0, 0, 1, 411, 451)" style="display: block;"><g class="djs-visual"><svg fill=" black" viewBox="0 0 24 26" xmlns="http://www.w3.org/2000/svg" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="0" y="75">Festivalbezoe</tspan><tspan x="28.787500381469727" y="89">ker</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_5208" transform="matrix(1, 0, 0, 1, 152, 451)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="10.23750114440918" y="74.75">Kaartje(s)</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_2247" transform="matrix(1, 0, 0, 1, 411, 291)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="15.162500381469727" y="74.75">Films(s)</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_6875" transform="matrix(1, 0, 0, 1, 671, 624)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="118" height="63" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,63 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" lineHeight="1.2" class="djs-label"><tspan x="5" y="15.799999999999999">Herhaal voor alle </tspan><tspan x="5" y="30.199999999999996">Vertoningen uit </tspan><tspan x="5" y="44.599999999999994">Agenda</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="118" height="63"/><rect x="-6" y="-6" width="130" height="75" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1945" transform="matrix(1, 0, 0, 1, 637, 451)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path d="M3 5v14h17V5H3zm4 2v2H5V7h2zm-2 6v-2h2v2H5zm0 2h2v2H5v-2zm13 2H9v-2h9v2zm0-4H9v-2h9v2zm0-4H9V7h9v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="16.087500382214785" y="74.75">Agenda</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_0317" transform="matrix(1, 0, 0, 1, 152, 182)" style="display: block;"><g class="djs-visual"><svg fill=" black" viewBox="0 0 24 26" xmlns="http://www.w3.org/2000/svg" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="14.037500381469727" y="75">Festival </tspan><tspan x="15.062501907348633" y="89">Website</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_3370" transform="matrix(1, 0, 0, 1, 301, 182)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path d="M3 5v14h17V5H3zm4 2v2H5V7h2zm-2 6v-2h2v2H5zm0 2h2v2H5v-2zm13 2H9v-2h9v2zm0-4H9v-2h9v2zm0-4H9V7h9v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="5.025001525878906" y="74.75">Programma</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7834" transform="matrix(1, 0, 0, 1, 411, 171)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="14.825000762939453" y="74.75">Favoriet</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1376" transform="matrix(1, 0, 0, 1, 241, 611)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M6.5 10h-2v7h2v-7zm6 0h-2v7h2v-7zm8.5 9H2v2h19v-2zm-2.5-9h-2v7h2v-7zm-7-6.74L16.71 6H6.29l5.21-2.74m0-2.26L2 6v2h19V6l-9.5-5z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="17.274999618530273" y="74.75">Locatie</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_6664" transform="matrix(1, 0, 0, 1, 411, 611)" style="display: block;"><g class="djs-visual"><svg fill=" black" xmlns="http://www.w3.org/2000/svg" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm6 10h-4V5h4v14zm4-2h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);" lineHeight="1.2" class="djs-label"><tspan x="11.012500762939453" y="74.75">Vertoning</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75"/><rect x="-6" y="-6" width="87" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_1170" transform="matrix(1, 0, 0, 1, 50, 634)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="154" height="63" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,63 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" lineHeight="1.2" class="djs-label"><tspan x="5" y="15.799999999999999">De meeste films zijn niet </tspan><tspan x="5" y="30.199999999999996">op dezelfde locatie en de </tspan><tspan x="5" y="44.599999999999994">reistijd kan oplopen tot </tspan><tspan x="5" y="58.99999999999999">30 minuten.</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="154" height="63"/><rect x="-6" y="-6" width="166" height="75" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_0049" style="display: block;"><g class="djs-visual"><polyline points="624,639 671,639 " style="stroke: rgb(0, 0, 0); stroke-width: 1.5px; stroke-linejoin: round; stroke-dasharray: 5px, 5px;"/></g><polyline points="624,639 671,639 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="618" y="633" width="59" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6114" style="display: block;"><g class="djs-visual"><polyline points="339,267 339,409 411,472 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="353" y="338">voor</tspan></text></g><polyline points="339,267 339,409 411,472 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="333" y="261" width="84" height="217" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_5700" style="display: block;"><g class="djs-visual"><polyline points="449,451 449,376 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="463" y="413.5">Markeert</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="418" y="413.5">2</tspan></text><circle cx="422" cy="409.5" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="449,451 449,376 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="443" y="370" width="12" height="87" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1702" style="display: block;"><g class="djs-visual"><polyline points="492,489 637,489 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="530.45" y="504">stelt samen</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="553.5" y="474">3</tspan></text><circle cx="557.5" cy="470" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="492,489 637,489 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="486" y="483" width="157" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3336" style="display: block;"><g class="djs-visual"><polyline points="411,489 233,489 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="303.25" y="504">Koopt</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="316.61224489795916" y="473.6938775510204">4</tspan></text><circle cx="320.61224489795916" cy="469.6938775510204" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="411,489 233,489 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="227" y="483" width="190" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1690" style="display: block;"><g class="djs-visual"><polyline points="411,509 279,579 279,611 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="360.55206349036325" y="549.6876190578205">Reist naar</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="311.47043083730205" y="549.6876190578205">5</tspan></text><circle cx="315.47043083730205" cy="545.6876190578205" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="411,509 279,579 279,611 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="273" y="503" width="144" height="114" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3288" style="display: block;"><g class="djs-visual"><polyline points="449,555 449,611 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="463" y="583">Bekijkt</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="413.9183673469388" y="583">6</tspan></text><circle cx="417.9183673469388" cy="579" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="449,555 449,611 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="443" y="549" width="12" height="68" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3124" style="display: block;"><g class="djs-visual"><polyline points="190,451 190,267 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="204" y="359">via</tspan></text></g><polyline points="190,451 190,267 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="184" y="261" width="12" height="196" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_0199" style="display: block;"><g class="djs-visual"><polyline points="233,220 301,220 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="235.5" y="235">publiceert</tspan></text><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" position="absolute" class="djs-labelNumber"><tspan x="256" y="205">1</tspan></text><circle cx="260" cy="201" r="10" style="fill:transparent;stroke:black;stroke-width:1"/></g><polyline points="233,220 301,220 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="227" y="214" width="80" height="12" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6787" style="display: block;"><g class="djs-visual"><polyline points="449,291 449,256 " style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-1fmz3s9pmi29tsw7qxbrg1ydo');"/><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;" lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label"><tspan x="463" y="273.5">Als</tspan></text></g><polyline points="449,291 449,256 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="443" y="250" width="12" height="47" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_4143" style="display: block;"><g class="djs-visual"><polyline points="241,649 204,658 " style="stroke: rgb(0, 0, 0); stroke-width: 1.5px; stroke-linejoin: round; stroke-dasharray: 5px, 5px;"/></g><polyline points="241,649 204,658 " style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="198" y="643" width="49" height="21" style="fill: none;" class="djs-outline"/></g></g></svg>
 <!-- <DST>
 {
   "domain": {
@@ -28,17 +28,6 @@
   },
   "dst": [
     {
-      "type": "domainStory:workObjectView-List",
-      "name": "Agenda",
-      "id": "shape_1945",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 933,
-      "y": 792
-    },
-    {
       "type": "domainStory:connection",
       "name": "",
       "id": "connection_4143",
@@ -48,19 +37,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 537,
-            "y": 990
+            "x": 241,
+            "y": 649
           },
-          "x": 537,
-          "y": 990
+          "x": 241,
+          "y": 649
         },
         {
           "original": {
-            "x": 500,
-            "y": 999
+            "x": 204,
+            "y": 658
           },
-          "x": 500,
-          "y": 999
+          "x": 204,
+          "y": 658
         }
       ],
       "source": "shape_1376",
@@ -76,100 +65,37 @@
       "waypoints": [
         {
           "original": {
-            "x": 920,
-            "y": 980
+            "x": 624,
+            "y": 639
           },
-          "x": 920,
-          "y": 980
+          "x": 624,
+          "y": 639
         },
         {
           "original": {
-            "x": 967,
-            "y": 980
+            "x": 671,
+            "y": 639
           },
-          "x": 967,
-          "y": 980
+          "x": 671,
+          "y": 639
         }
       ],
       "source": "shape_9812",
       "target": "shape_6875"
     },
     {
-      "type": "domainStory:actorPerson",
-      "name": "Festivalbezoeker",
-      "id": "shape_7125",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_1170",
       "$type": "Element",
       "di": {},
       "$descriptor": {},
-      "pickedColor": "black",
-      "x": 707,
-      "y": 792
-    },
-    {
-      "type": "domainStory:actorSystem",
-      "name": "Festival Website",
-      "id": "shape_0317",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 448,
-      "y": 523
-    },
-    {
-      "type": "domainStory:workObjectView-List",
-      "name": "Programma",
-      "id": "shape_3370",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 597,
-      "y": 523
-    },
-    {
-      "type": "domainStory:workObjectTheater",
-      "name": "Films(s)",
-      "id": "shape_2247",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 707,
-      "y": 632
-    },
-    {
-      "type": "domainStory:workObjectFavorite",
-      "name": "Favoriet",
-      "id": "shape_7834",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 707,
-      "y": 512
-    },
-    {
-      "type": "domainStory:workObjectTheater",
-      "name": "Kaartje(s)",
-      "id": "shape_5208",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 448,
-      "y": 792
-    },
-    {
-      "type": "domainStory:workObjectCourthouse",
-      "name": "Locatie",
-      "id": "shape_1376",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {},
-      "pickedColor": "black",
-      "x": 537,
-      "y": 952
+      "x": 50,
+      "y": 634,
+      "width": 154,
+      "height": 63,
+      "text": "De meeste films zijn niet op dezelfde locatie en de reistijd kan oplopen tot 30 minuten.",
+      "number": 63
     },
     {
       "type": "domainStory:workObjectTheater",
@@ -179,22 +105,99 @@
       "di": {},
       "$descriptor": {},
       "pickedColor": "black",
-      "x": 707,
-      "y": 952
+      "x": 411,
+      "y": 611
     },
     {
-      "type": "domainStory:textAnnotation",
-      "name": "",
-      "id": "shape_1170",
+      "type": "domainStory:workObjectCourthouse",
+      "name": "Locatie",
+      "id": "shape_1376",
       "$type": "Element",
       "di": {},
       "$descriptor": {},
-      "x": 346,
-      "y": 975,
-      "width": 154,
-      "height": 68,
-      "text": "De meeste films zijn niet op dezelfde locatie en de reistijd kan oplopen tot 30 minuten.",
-      "number": 68
+      "pickedColor": "black",
+      "x": 241,
+      "y": 611
+    },
+    {
+      "type": "domainStory:workObjectTheater",
+      "name": "Kaartje(s)",
+      "id": "shape_5208",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 152,
+      "y": 451,
+      "parent": "shape_9812"
+    },
+    {
+      "type": "domainStory:workObjectFavorite",
+      "name": "Favoriet",
+      "id": "shape_7834",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 411,
+      "y": 171
+    },
+    {
+      "type": "domainStory:workObjectTheater",
+      "name": "Films(s)",
+      "id": "shape_2247",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 411,
+      "y": 291,
+      "parent": "shape_9812"
+    },
+    {
+      "type": "domainStory:workObjectView-List",
+      "name": "Programma",
+      "id": "shape_3370",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 301,
+      "y": 182
+    },
+    {
+      "type": "domainStory:actorSystem",
+      "name": "Festival Website",
+      "id": "shape_0317",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 152,
+      "y": 182
+    },
+    {
+      "type": "domainStory:actorPerson",
+      "name": "Festivalbezoeker",
+      "id": "shape_7125",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 411,
+      "y": 451,
+      "parent": "shape_9812"
+    },
+    {
+      "type": "domainStory:workObjectView-List",
+      "name": "Agenda",
+      "id": "shape_1945",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "x": 637,
+      "y": 451
     },
     {
       "type": "domainStory:textAnnotation",
@@ -203,16 +206,16 @@
       "$type": "Element",
       "di": {},
       "$descriptor": {},
-      "x": 967,
-      "y": 965,
-      "width": 136,
-      "height": 43,
-      "text": "Herhaal voor alle geplande vertoningen",
-      "number": 43
+      "x": 671,
+      "y": 624,
+      "width": 118,
+      "height": 63,
+      "text": "Herhaal voor alle Vertoningen uit Agenda",
+      "number": 63
     },
     {
       "type": "domainStory:activity",
-      "name": "",
+      "name": "publiceert",
       "id": "connection_0199",
       "$type": "Element",
       "di": {},
@@ -222,23 +225,24 @@
       "waypoints": [
         {
           "original": {
-            "x": 529,
-            "y": 561
+            "x": 233,
+            "y": 220
           },
-          "x": 529,
-          "y": 561
+          "x": 233,
+          "y": 220
         },
         {
           "original": {
-            "x": 597,
-            "y": 561
+            "x": 301,
+            "y": 220
           },
-          "x": 597,
-          "y": 561
+          "x": 301,
+          "y": 220
         }
       ],
       "source": "shape_0317",
-      "target": "shape_3370"
+      "target": "shape_3370",
+      "multipleNumberAllowed": false
     },
     {
       "type": "domainStory:activity",
@@ -252,19 +256,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 745,
-            "y": 792
+            "x": 449,
+            "y": 451
           },
-          "x": 745,
-          "y": 792
+          "x": 449,
+          "y": 451
         },
         {
           "original": {
-            "x": 745,
-            "y": 717
+            "x": 449,
+            "y": 376
           },
-          "x": 745,
-          "y": 717
+          "x": 449,
+          "y": 376
         }
       ],
       "source": "shape_7125",
@@ -283,19 +287,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 745,
-            "y": 632
+            "x": 449,
+            "y": 291
           },
-          "x": 745,
-          "y": 632
+          "x": 449,
+          "y": 291
         },
         {
           "original": {
-            "x": 745,
-            "y": 597
+            "x": 449,
+            "y": 256
           },
-          "x": 745,
-          "y": 597
+          "x": 449,
+          "y": 256
         }
       ],
       "source": "shape_2247",
@@ -314,19 +318,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 788,
-            "y": 830
+            "x": 492,
+            "y": 489
           },
-          "x": 788,
-          "y": 830
+          "x": 492,
+          "y": 489
         },
         {
           "original": {
-            "x": 933,
-            "y": 830
+            "x": 637,
+            "y": 489
           },
-          "x": 933,
-          "y": 830
+          "x": 637,
+          "y": 489
         }
       ],
       "source": "shape_7125",
@@ -345,19 +349,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 707,
-            "y": 830
+            "x": 411,
+            "y": 489
           },
-          "x": 707,
-          "y": 830
+          "x": 411,
+          "y": 489
         },
         {
           "original": {
-            "x": 529,
-            "y": 830
+            "x": 233,
+            "y": 489
           },
-          "x": 529,
-          "y": 830
+          "x": 233,
+          "y": 489
         }
       ],
       "source": "shape_7125",
@@ -376,19 +380,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 486,
-            "y": 792
+            "x": 190,
+            "y": 451
           },
-          "x": 486,
-          "y": 792
+          "x": 190,
+          "y": 451
         },
         {
           "original": {
-            "x": 486,
-            "y": 608
+            "x": 190,
+            "y": 267
           },
-          "x": 486,
-          "y": 608
+          "x": 190,
+          "y": 267
         }
       ],
       "source": "shape_5208",
@@ -407,23 +411,23 @@
       "waypoints": [
         {
           "original": {
-            "x": 707,
-            "y": 850
+            "x": 411,
+            "y": 509
           },
-          "x": 707,
-          "y": 850
+          "x": 411,
+          "y": 509
         },
         {
-          "x": 575,
-          "y": 920
+          "x": 279,
+          "y": 579
         },
         {
           "original": {
-            "x": 575,
-            "y": 952
+            "x": 279,
+            "y": 611
           },
-          "x": 575,
-          "y": 952
+          "x": 279,
+          "y": 611
         }
       ],
       "source": "shape_7125",
@@ -442,23 +446,58 @@
       "waypoints": [
         {
           "original": {
-            "x": 745,
-            "y": 896
+            "x": 449,
+            "y": 555
           },
-          "x": 745,
-          "y": 896
+          "x": 449,
+          "y": 555
         },
         {
           "original": {
-            "x": 745,
-            "y": 952
+            "x": 449,
+            "y": 611
           },
-          "x": 745,
-          "y": 952
+          "x": 449,
+          "y": 611
         }
       ],
       "source": "shape_7125",
       "target": "shape_6664",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "voor",
+      "id": "connection_6114",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 339,
+            "y": 267
+          },
+          "x": 339,
+          "y": 267
+        },
+        {
+          "x": 339,
+          "y": 409
+        },
+        {
+          "original": {
+            "x": 411,
+            "y": 472
+          },
+          "x": 411,
+          "y": 472
+        }
+      ],
+      "source": "shape_3370",
+      "target": "shape_7125",
       "multipleNumberAllowed": false
     },
     {
@@ -469,8 +508,8 @@
       "di": {},
       "$descriptor": {},
       "pickedColor": "black",
-      "x": 515,
-      "y": 880,
+      "x": 219,
+      "y": 539,
       "height": 167,
       "width": 423
     },

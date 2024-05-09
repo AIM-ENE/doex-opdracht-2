@@ -1,4 +1,4 @@
-# Acceptatiecriteria
+# Pre-en Postcondities
 
 ## Scenario Happy Path
 

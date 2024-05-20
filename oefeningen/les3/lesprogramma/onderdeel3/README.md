@@ -10,7 +10,7 @@
 
 Een werkweek bestaat uit 5 dagen en een jaar bestaat uit 48 werkweken.
 
-Een dag bestaat uit 40 slots die elk 10 minuten duren.
+Een dag bestaat uit 40 slots die elk 10 minuten duren. Een slot kan maar door één client geboekt worden.
 
 Een client kan een afspraak maken bij een huisarts voor de duur van één, of twee slots (achter elkaar). Een client kan echter maar één afspraak per dag plannen en mag niet meer dan 20 afspraken per jaar plannen. 
 

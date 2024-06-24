@@ -18,7 +18,7 @@ Als een `bestelregel` verwijderd wordt, moeten er dan ook andere objecten verwij
 
 > 
 
-Als een `product` verwijderd wordt, wmoeten er dan ook andere objecten verwijderd worden (zo ja, welke?
+Als een `product` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke?
 
 > 
 

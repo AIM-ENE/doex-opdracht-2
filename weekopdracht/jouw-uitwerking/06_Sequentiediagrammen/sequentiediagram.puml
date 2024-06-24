@@ -4,10 +4,6 @@ autonumber
 
 actor "Festival\nbezoeker" as bezoeker
 participant "app:\nFesitvalApp" as app
-participant "dagagenda:\nDagagenda" as dagagenda
-participant "vertoning\nVertoning" as vertoning
-participant "planningsConflict\nPlanningsconflict" as planningsConflict
-participant "favoriet\nFavoriet" as favoriet
 database Store
 
 bezoeker -> app : voegVertoningToe(\n\

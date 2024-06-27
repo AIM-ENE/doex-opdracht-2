@@ -10,15 +10,15 @@ Welke klassen bewaken samen de invariant?
 
 ### Life-cycle
 
-Als een `bestelling` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke?
+Als een `bestelling` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke)?
 
 >
 
-Als een `bestelregel` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke?
+Als een `bestelregel` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke)?
 
 > 
 
-Als een `product` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke?
+Als een `product` verwijderd wordt, moeten er dan ook andere objecten verwijderd worden (zo ja, welke)?
 
 > 
 

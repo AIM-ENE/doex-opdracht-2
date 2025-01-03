@@ -5,7 +5,7 @@
 
 - **Programma:**
   Het overzicht van alle vertoningen van alle films op alle dagen van één editie van het filmfestival.
-- **Dagagenda:**
+- **DagAgenda:**
   Bevat alle vertoningen die een festivalbezoeker, of een groep festivalbezoekers, voor een specifieke dag heeft ingepland.   
 - **Agenda:**  
   Het complete overzicht van alle dagplanningen van een festivalbezoeker.

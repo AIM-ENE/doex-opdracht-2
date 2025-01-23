@@ -6,7 +6,7 @@ Neem een specifieke procedure uit twee sequentiediagrammen die voor dezelfde dom
 
 ## Vergelijk
 
-1. Welk object weet hoe de procedure werkt?
+1. Welk object weet hoe de functie/methode werkt?
 2. Van welke object(en), of actor(en) krijgt het object bij vraag 1 informatie om het werk te kunnen doen (anders gezegd, waar komen de parameters vandaan).
 3. Met welke objecten moet er binnen de procedure samengewerkt worden om het werk te kunnen doen. Nieuwe objecten maken (en/of retourneren) telt niet als samenwerken, alleen methoden aanroepen van andere eerder gemaakte objecten telt als samenwerken.
 

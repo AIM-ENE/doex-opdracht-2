@@ -1,8 +1,10 @@
 # Opdrachtomschrijving Film Festival
 
+Een casusbeschrijving van deze opdracht staat in [casusbeschrijving/](casusbeschrijving).
+
 Hieronder zie je alle gewenste/geplande features voor 2 releases.
 
-Werk de stappen uit die je in elke folder kunt vinden
+Werk de stappen uit die je in elke folder kunt vinden.
 
 ## Release 1
 
@@ -17,7 +19,6 @@ Zodat ik een overzicht kan maken van de films waarin ik geïnteresseerd ben
 Als festivalbezoeker  
 Wil ik van de films die ik als favoriet heb gemarkeerd, kunnen zien hoe vaak deze zijn ingepland  
 Zodat ik een beeld krijg in hoeverre mijn agenda overeen komt met mijn filmvoorkeuren
-
 
 ### Business rules
 

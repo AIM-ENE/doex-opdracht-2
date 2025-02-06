@@ -1,6 +1,6 @@
 # Casus Film Festival
 
-## Epic's/User Stories
+## Epics/User Stories
 
 ### Dagprogramma maken
 

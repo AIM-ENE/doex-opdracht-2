@@ -2,7 +2,7 @@
 
 Hieronder de begrippenlijst (glossary) met beschrijving van alle relevante begrippen (concepten/entiteiten)
 
-| Begrip                    | Beschrijving               |
+| *Begrip*                  | *Beschrijving*             |
 |---------------------------|----------------------------|
 | 📔 **Programma**          | Het overzicht van alle vertoningen van alle films op alle dagen van één editie van het filmfestival. |
 | 🔡 **DagAgenda**          | Bevat alle vertoningen die een festivalbezoeker, of groep festivalbezoekers, voor een specifieke dag heeft ingepland. |

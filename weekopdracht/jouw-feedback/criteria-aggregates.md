@@ -1,12 +1,12 @@
 # Criteria indeling aggregates
 
-## hoofdselectiecriterium invariant
+## Hoofdselectiecriterium invariant
 
-- Bewaakt de aggregate de invariant(en) die gedefinieerd zijn in stap 05
+- Bewaakt de aggregate de invariant(en) die gedefinieerd zijn in stap 05?
 
 ## Aggregate Root
 
-- Is er voor elke aggregate die uit meer dan één klasse bestaat een aggregate root aangewezen?
+- Is voor elke aggregate die uit meer dan één klasse bestaat een *aggregate root* aangewezen?
 
 ## Verwijzingen
 

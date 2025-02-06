@@ -1,6 +1,8 @@
 # Begrippenlijst ![Film](./images/film.svg) 
 
-Hieronder de begrippenlijst (glossary) met beschrijving van alle relevante begrippen (concepten/entiteiten)
+Hieronder de begrippenlijst (glossary) met beschrijving van alle relevante begrippen (concepten/entiteiten).
+
+Vind zelf geschikte/vergelijkbare icons in egon, de icons in de tabel zijn niet altijd beschikbaar.
 
 | *Begrip*                  | *Beschrijving*             |
 |---------------------------|----------------------------|

@@ -40,6 +40,7 @@ Omdat een festivalbezoeker beschermd moet worden tegen het kopen van kaartjes vo
 
 ## Release 2 (volgende week)
 
-Als festivalbezoeker
-Wil ik met meerdere mensen een agenda maken voor ons festivalbezoek
-Zodat we snel een selectie van vertoningen kunnen zien die optimaal aansluit bij onze behoefte
+Als festivalbezoeker  
+Wil ik met meerdere mensen een agenda maken voor ons festivalbezoek  
+Zodat we snel een selectie van vertoningen kunnen zien die optimaal aansluit bij onze behoefte  
+

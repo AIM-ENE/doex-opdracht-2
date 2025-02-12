@@ -1,6 +1,6 @@
 # Opdrachtomschrijving Film Festival
 
-Een casusbeschrijving van deze opdracht staat in [casusbeschrijving/](casusbeschrijving).
+Een casusbeschrijving van deze opdracht staat in de folder [`casusbeschrijving/`](casusbeschrijving).
 
 Hieronder zie je alle gewenste/geplande features voor 2 releases.
 
@@ -43,4 +43,3 @@ Omdat een festivalbezoeker beschermd moet worden tegen het kopen van kaartjes vo
 Als festivalbezoeker  
 Wil ik met meerdere mensen een agenda maken voor ons festivalbezoek  
 Zodat we snel een selectie van vertoningen kunnen zien die optimaal aansluit bij onze behoefte  
-

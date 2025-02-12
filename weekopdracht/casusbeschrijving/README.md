@@ -1,6 +1,6 @@
 # Festival Planner 
 
-De casus van deze week is een planner voor festivals (of conferenties en andere grotere evenementen) die bezoekers helpt bij het maken van een eigen planning van alle favoriete shows. Om de casus niet te groot te maken, nemen we als voorbeeld een jaarlijks terugkerend filmfestival (bijvoorbeeld [het IFFR](https://iffr.com/nl/).
+De casus van deze week is een planner voor festivals (of conferenties en andere grotere evenementen) die bezoekers helpt bij het maken van een eigen planning van alle favoriete shows. Om de casus niet te groot te maken, nemen we als voorbeeld een jaarlijks terugkerend filmfestival (bijvoorbeeld [het IFFR](https://iffr.com/nl/)).
 
 ## Beschrijving
 

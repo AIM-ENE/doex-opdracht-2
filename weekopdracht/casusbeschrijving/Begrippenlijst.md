@@ -9,7 +9,7 @@ Vind zelf geschikte/vergelijkbare icons in egon, de icons in de tabel zijn niet 
 | 📔 **Programma**          | Het overzicht van alle vertoningen van alle films op alle dagen van één editie van het filmfestival. |
 | 🔡 **DagAgenda**          | Bevat alle vertoningen die een festivalbezoeker, of groep festivalbezoekers, voor een specifieke dag heeft ingepland. |
 | 🗓️ **Agenda**            | Het complete overzicht van alle dagplanningen van een festivalbezoeker. |
-| 🌩️ **Planningsconflict** | Indicatie dat een geplande vertoning in een dagagenda waarschijnlijk niet bezocht kan worden vanwege andere vertoningen en/of omdat de bezoeker niet aan alle voorwaarden van de vertoning voldoet. |
+| 🌩️ **Planningsconflict** | Indicatie dat een geplande vertoning in een dagagenda waarschijnlijk niet bezocht kan worden vanwege andere vertoningen die de gebruiker heeft ingepland of dat er geen vertoning meer is van een film die de gebruiker als favoriet heeft gemarkeerd. |
 | 🎞️ **Film**              | Informatie over de specifieke film waaronder de titel en speelduur. |
 | 🎫 **Kaartje**            | Bewijs om een specifieke vertoning te kunnen bijwonen. Een kaartje garandeert een zitplaats voor de festivalbezoeker. |
 | 🏛️ **Locatie**            | De plek waar een vertoning wordt gehouden. Bevat de naam van het gebouw, het adres en de zaal. |

@@ -23,12 +23,15 @@ Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoe
 
 2) De festivalbezoeker bekijkt het programma en markeert films die hij of zij wil zien als 'favoriet'.
 
-3) De bezoeker stelt een agenda samen van vertoningen van films. Dit kunnen zowel films zijn die de bezoekers als favoriet heeft gemarkeerd, als andere vertoningen. Het is meestal een flinke puzzel om alle favorieten in te plannen.
+3) De festivalbezoeker stelt een agenda samen van vertoningen die de bezoeker elke dag wil zien. Dit kunnen zowel films zijn die de bezoekers als favoriet heeft gemarkeerd, als andere vertoningen. Veel festivalbezoekers gaan meerdere dagen naar het festival en het is daarom vaak een flinke puzzel om alle favorieten ingepland te krijgen.
 
-4) De bezoeker koopt kaartjes voor de films uit de dagprogramma's. 
-5) De bezoeker reist naar de locatie.
+4) De festivalbezoeker koopt kaartjes voor de vertoningen. Over het algemeen zijn dit de vertoningen die gepland zijn in de agenda, maar een festivalbezoeker koopt ook wel eens kaartjes van vertoningen die niet zijn ingepland.
+ 
+5) De bezoeker reist naar de locatie van de betreffende vertoning.
 
-6) De bezoeker bekijkt de vertoning. 
+6) De bezoeker bekijkt de film die vertoont wordt. 
+
+
 
 ## Deze lesweek
 

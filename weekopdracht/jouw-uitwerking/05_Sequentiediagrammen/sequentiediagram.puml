@@ -11,6 +11,6 @@ bezoeker -> app : voegVertoningToe(\n\
     starttijd,\n\
     eindtijd,\n\
     filmId,\n\
-    dagagendaId)
+    dagplanningId)
 
 @enduml

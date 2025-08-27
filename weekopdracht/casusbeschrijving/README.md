@@ -8,14 +8,13 @@ Het filmfestival vindt jaarlijks plaats gedurende twee weken in een stad. Alle b
 
 Festivalbezoekers willen vaak meerdere dagen naar het festival en hebben vaak voorkeuren voor de films, of de combinatie van films die ze willen zien. Daarnaast gaan bezoekers vaak samen één, of meerdere dagen naar het festival. 
 
-De twee belangrijkste problemen waar bezoekers bij het plannen tegenaan lopen zijn:
-
-1. Inplannen van alle vertoningen zodanig dat er geen overlap is en dat de reistijd tussen twee vertoningen haalbaar is.
-2. Met meerdere bezoekers een gezamenlijke agenda maken waarbij iedereen zoveel mogelijk van zijn of haar favoriete films kan zien.
+Het belangrijkste probleem waar bezoekers bij het plannen tegenaan lopen is dat het inplannen van alle vertoningen zodanig dat er geen overlap is en dat de reistijd tussen twee vertoningen haalbaar is.
 
 Deze nieuwe app moet bezoekers daarom helpen bij het plannen van individuele en gezamenlijke festivalbezoeken.       
 
 Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoeker een complete agenda maakt, kaartjes koopt en het festival bezoekt.
+
+Dit scenario is een happy-path-scenario
 
 ![overzicht](./images/Filmfestivalplanner.egn.svg)
 
@@ -32,13 +31,13 @@ Hieronder zie je een overzicht van een typisch scenario waarin een festivalbezoe
 6) De bezoeker bekijkt de film die vertoont wordt. 
 
 
+## Begrippenlijst
+
+In het bestand `Begrippenlijst.md` vind je alle concepten die bij deze casus een rol spelen.
 
 ## Deze lesweek
 
-In deze lesweek richten we ons op het samenstellen van de agenda voor één bezoeker. In de volgende lesweek gaan we verder met het samenstellen van een gezamenlijke agenda.
+In deze lesweek richten we ons op het samenstellen van de agenda voor één bezoeker. Het probleem van een goede agenda samenstellen wordt groter als een groep bezoekers een gezamenlijke agenda willen maken. In week 3 kijken naar dit probleem. 
 
-## Voorbeeldpagina's
 
-Hoewel we niet bezig gaan met de front-end van de applicatie is het wel handig om een beeld te hebben van hoe de applicatie eruit zou kunnen zien. In de MAP XYZ je een aantal voorbeelden van hoe verschillende pagina's eruit zouden kunnen zien.
 
-[//]: # (TODO: links naar voorbeelden toevoegen)

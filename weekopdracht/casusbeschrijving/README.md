@@ -8,7 +8,7 @@ Het filmfestival vindt jaarlijks plaats gedurende twee weken in een stad. Alle b
 
 Festivalbezoekers willen vaak meerdere dagen naar het festival en hebben vaak voorkeuren voor de films, of de combinatie van films die ze willen zien. Daarnaast gaan bezoekers vaak samen één, of meerdere dagen naar het festival. 
 
-Het belangrijkste probleem waar bezoekers bij het plannen tegenaan lopen is dat het inplannen van alle vertoningen zodanig dat er geen overlap is en dat de reistijd tussen twee vertoningen haalbaar is.
+Het belangrijkste probleem waar bezoekers bij het plannen tegenaan lopen is het zodanig inplannen van alle vertoningen dat er geen overlap is en dat de reistijd tussen twee vertoningen haalbaar is.
 
 Deze nieuwe app moet bezoekers daarom helpen bij het plannen van individuele en gezamenlijke festivalbezoeken.       
 
@@ -37,7 +37,7 @@ In het bestand `Begrippenlijst.md` vind je alle concepten die bij deze casus een
 
 ## Deze lesweek
 
-In deze lesweek richten we ons op het samenstellen van de agenda voor één bezoeker. Het probleem van een goede agenda samenstellen wordt groter als een groep bezoekers een gezamenlijke agenda willen maken. In week 3 kijken naar dit probleem. 
+In deze lesweek richten we ons op het samenstellen van de agenda voor één bezoeker. Het probleem van een goede agenda samenstellen wordt groter als een groep bezoekers een gezamenlijke agenda wil maken. In week 3 kijken we naar dat probleem. 
 
 
 

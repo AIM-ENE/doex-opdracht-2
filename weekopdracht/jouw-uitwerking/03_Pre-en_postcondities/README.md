@@ -1,3 +1,3 @@
 
 
-[//]: # (TODO: Beschrijving toevoegen)
+Bespreken we klassikaal.
